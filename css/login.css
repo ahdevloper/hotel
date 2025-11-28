@@ -1,0 +1,101 @@
+/* إعدادات عامة */
+body {
+  font-family: 'Tajawal', sans-serif;
+  background: linear-gradient(135deg, #1a73e8, #0b3d91);
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* صندوق تسجيل الدخول */
+.card-container {
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 35px 30px;
+  width: 360px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  animation: fade-in 0.6s ease-in-out;
+}
+
+/* صورة الحساب */
+.profile-img-card {
+  width: 90px;
+  height: 90px;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
+/* عنوان تسجيل الدخول */
+.login-title {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* الحقول */
+.form-group label {
+  display: block;
+  text-align: right !important;
+  font-weight: 500;
+  margin-bottom: 6px;
+  font-size: 15px;
+}
+
+.input-custom {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #d4d4d4;
+  border-radius: 10px;
+  margin-bottom: 18px;
+  font-size: 15px;
+  transition: 0.3s;
+}
+
+.input-custom:focus {
+  border-color: #1a73e8;
+  box-shadow: 0px 0px 5px rgba(26, 115, 232, 0.4);
+  outline: none;
+}
+
+/* زر تسجيل الدخول */
+.btn-signin {
+  background: #1a73e8 !important;
+  color: #fff;
+  border-radius: 12px;
+  font-size: 17px;
+  padding: 12px;
+  font-weight: 600;
+  border: none;
+  transition: 0.3s;
+}
+
+.btn-signin:hover {
+  background: #0e4fa3 !important;
+  transform: translateY(-2px);
+}
+
+/* الرسائل */
+.alert {
+  font-size: 14px;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  text-align: right;
+}
+
+/* أنميشن */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
