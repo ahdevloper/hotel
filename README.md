@@ -82,6 +82,7 @@ $dbname = "hotelms";
 
 ### لوحة التحكم
 <img width="2536" height="1241" alt="image" src="https://github.com/user-attachments/assets/4e944763-0c87-4fed-84d3-1c4d51d133c5" />
+<img width="2536" height="1241" alt="image" src="https://github.com/user-attachments/assets/f0723d07-d72b-4ab7-a30b-38d2fa0b3fad" />
 
 
 
@@ -90,21 +91,23 @@ $dbname = "hotelms";
 ### صفحة تسجيل الدخول
 
 
-![Reservations](screenshots/reservations.png)
+<img width="2539" height="1257" alt="image" src="https://github.com/user-attachments/assets/c67e790c-290a-4fa3-a8c1-5e7cce808356" />
+
 ### صفحة الحجوزات
 
+<img width="2548" height="1227" alt="image" src="https://github.com/user-attachments/assets/4fd53dc0-8316-4f07-8bd6-c59f01d66f5c" />
 
-<img width="2548" height="1227" alt="image" src="https://github.com/user-attachments/assets/5978575e-2ac6-40d9-906b-facc035c511f" />
 
 ### إدارة الغرف
 
 
-<img width="2526" height="1237" alt="image" src="https://github.com/user-attachments/assets/c21492c9-1e41-4bf2-84fd-4dfa5edaa47e" />
+<img width="2526" height="1237" alt="image" src="https://github.com/user-attachments/assets/106444be-96ad-4442-91a7-2d3a4d5c278e" />
+
 
 
 ### إدارة الموظفين
+<img width="2533" height="1195" alt="image" src="https://github.com/user-attachments/assets/285c6453-bd1f-4c8b-9b66-016bf8cfd591" />
 
-<img width="2533" height="1195" alt="image" src="https://github.com/user-attachments/assets/6cdaa591-491a-415b-95db-ec08b0f9ee2c" />
 
 
 ## 🗂️ هيكل المشروع
